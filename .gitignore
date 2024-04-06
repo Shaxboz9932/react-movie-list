@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/src/history
+/src/movielist
 /.pnp
 .pnp.js
 
